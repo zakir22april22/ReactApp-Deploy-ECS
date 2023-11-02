@@ -1,7 +1,7 @@
 ## Example of a Containerized React Web Application 
 
 ### Summary
-This is a basic digital coloring book, created by Alison Quaglia. I encourage you to check out her other works, especially [coloring book with National parks](https://github.com/https://github.com/zakir22april22/ReactApp-Deploy-ECS)! It's awesome!!! 😍
+This is a basic digital coloring book, created by Alison Quaglia. I encourage you to check out her other works, especially coloring book with National parks It's awesome!!! 😍
 
 ##### Getting Started
 For this workshop clone this repo by running command:
